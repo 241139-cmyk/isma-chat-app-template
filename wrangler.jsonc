@@ -20,3 +20,11 @@
 	},
 	"upload_source_maps": true
 }
+{
+  "name": "my-ai-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2026-05-14",
+  "ai": {
+    "binding": "AI"
+  }
+}
